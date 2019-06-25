@@ -2,6 +2,11 @@
 
 If you are studying ASP.NET Core, I am lurking on this **[Gitter Channel](https://gitter.im/DotNetStudyGroup/aspnetcore)**.
 
+
+238 samples for ASP.NET Core 2.1, 2.2
+Цель этого проекта – дать возможность программистам .NET изучить новый стек ASP.NET Core с нуля с помощью кода. 
+Репозиторий обновляется ежедневно и содержит примеры использования ASP.NET Core 3.0!
+
 ## Welcome
 
 The goal of this project is to enable .NET programmers to learn the new ASP.NET Core stack from the ground up directly from code. There is so much power in the underlying ASP.NET Core stack. Don't miss them!
